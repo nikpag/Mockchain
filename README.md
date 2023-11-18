@@ -6,7 +6,7 @@ This is yet another Blockchain implementation 🧱⛓. If you are not familiar w
 
 If this didn't help, then quite frankly, I don't know what will.
 
-This system is completely implemented in Go, and the communication is done using TCP sockets.
+This system is completely implemented in Go, and communication is done using TCP sockets.
 
 We measure the system's transaction throughput and block time, on 5-node and 10-node setups.
 
